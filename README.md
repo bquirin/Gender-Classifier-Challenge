@@ -2,7 +2,7 @@
 
 #Overview  
 
-This is the code for the Gender Classifier challenge for 'Learn Python for Data Science #1' by @Sirajology on YouTube. The code uses the scikit-learn library to access the tree and neighbors library to perform classification using a small dataset for. We'll be able to see how positive or negative each tweet is about whatever topic we choose.  
+This is the code for the Gender Classifier challenge for 'Learn Python for Data Science #1' by @Sirajology on YouTube. The code uses the scikit-learn library to access the tree and neighbors library to perform classification using a small dataset of body metrics (height, width, and shoe size) labeled male or female to predict the gender of someone given a set of body metrics. 
 
 #Dependencies  
 
