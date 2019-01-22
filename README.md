@@ -1,4 +1,4 @@
-# Gender-Classifier-Challenge
+# Gender Classifier Challenge
 
 #Overview  
 
